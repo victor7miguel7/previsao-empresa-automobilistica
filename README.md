@@ -29,7 +29,7 @@ Os insights gerados permitem uma **tomada de decisão mais assertiva**, otimizan
 ---
 
 **Tecnologias utilizadas:**  
-- Python (pandas, numpy, statsmodels, XGBoost)  
+- Python (pandas, numpy, statsmodels, XGBoost, matplotlib, Scikit-learn)  
 - Power BI  
 
 **Status:** Projeto finalizado com apresentação dos resultados.  
