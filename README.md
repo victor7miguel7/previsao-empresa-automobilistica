@@ -1,4 +1,4 @@
-# Previsão de Indicadores para Empresa Automobilística
+# Previsão de Indicadores para Empresa de Aluguel de Automóveis
 
 Este projeto é o resultado de um estudo sobre uma empresa do setor automobilístico, no qual aplicamos técnicas de **séries temporais** e **Machine Learning** para prever indicadores estratégicos, como:
 
